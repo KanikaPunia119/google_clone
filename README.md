@@ -3,7 +3,6 @@
 ## Features
 - Responsive Google UI
 - Fetches Result from Google's Custom Search API
-- Pagination
 
 # Installation
 
